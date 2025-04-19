@@ -4,6 +4,31 @@ Forging bleeding-edge tech at the crossroads of
 ## cyber warfare, immersive systems, and decentralized architecture.
 ***No fluff—just code, chaos, and community.***
 
+## ⚡ About Me
+
+***Cancer survivor turned system-level hacker 🧬***
+
+        -----------------------------------
+ 
+Software architect by instinct, cyber tactician by obsession
+
+-------------------------------------------------------
+
+DIY everything: from welding rigs to adversarial AI
+
+--------------------------------------------------------
+
+Canadian by blood, global by code
+
+--------------------------------------------------
+
+Advocating for open source, knowledge freedom, and sovereignty over tech
+
+Let’s weaponize innovation. Let’s redefine what’s possible.
+Thanks for stopping by—now let’s build.
+
+
+
 ## 🚧 Current Mission: 
 Architecting the Future of Virtual Autonomy
 Building an autonomous, AI-augmented virtual platform that fuses:
@@ -70,16 +95,4 @@ Just a builder and the bleeding edge.
 🔐 GitHub: Here, obviously
 🧠 Minds alike? DM me.
 
-⚡ About Me
-Cancer survivor turned system-level hacker 🧬
 
-Software architect by instinct, cyber tactician by obsession
-
-DIY everything: from welding rigs to adversarial AI
-
-Canadian by blood, global by code
-
-Advocating for open source, knowledge freedom, and sovereignty over tech
-
-Let’s weaponize innovation. Let’s redefine what’s possible.
-Thanks for stopping by—now let’s build.
