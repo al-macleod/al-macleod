@@ -1,8 +1,8 @@
-👾 Alex — Architect of Cybernetic Futures
-🛠️ Developer | 🔐 Offensive Researcher | 🧠 AI Strategist | 🧪 Immersive Tech Engineer
+## 👾 Alex — Architect of Cybernetic Futures
+     🛠️ Developer | 🔐 Offensive Researcher | 🧠 AI Strategist | 🧪 Immersive Tech Engineer
 
-Engineering next-gen systems at the convergence of
-cyber warfare, immersive platforms, and decentralized tech.
+# Engineering next-gen systems at the convergence of
+    cyber warfare, immersive platforms, and decentralized tech.
 
 No fluff. Just logic, leverage, and liberation.
 ⚡ About
